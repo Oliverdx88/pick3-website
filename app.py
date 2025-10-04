@@ -20,34 +20,57 @@ except ImportError:
 # Lightweight prediction functions (fallback when AI system is too slow)
 import random
 
-def generate_lightweight_doubles(count):
-    """Generate lightweight doubles predictions"""
+def generate_lightweight_doubles(count, last_draw="000"):
+    """Generate lightweight doubles predictions based on last draw"""
     doubles = []
+    last_digits = [int(d) for d in last_draw]
+    
     for _ in range(count):
-        # Generate doubles (same digit appears twice)
-        first_digit = random.randint(0, 9)
-        second_digit = random.randint(0, 9)
-        third_digit = random.randint(0, 9)
-        
-        # Ensure it's a double (at least two digits are the same)
-        if first_digit == second_digit or first_digit == third_digit or second_digit == third_digit:
-            number = f"{first_digit}{second_digit}{third_digit}"
+        # Generate doubles (same digit appears twice) with some influence from last draw
+        if random.random() < 0.3:  # 30% chance to use last draw influence
+            # Use one digit from last draw
+            base_digit = random.choice(last_digits)
+            other_digit = random.randint(0, 9)
+            if random.random() < 0.5:
+                number = f"{base_digit}{base_digit}{other_digit}"
+            else:
+                number = f"{base_digit}{other_digit}{base_digit}"
         else:
-            # Force a double by making two digits the same
-            number = f"{first_digit}{first_digit}{second_digit}"
+            # Generate random doubles
+            first_digit = random.randint(0, 9)
+            second_digit = random.randint(0, 9)
+            third_digit = random.randint(0, 9)
+            
+            # Ensure it's a double (at least two digits are the same)
+            if first_digit == second_digit or first_digit == third_digit or second_digit == third_digit:
+                number = f"{first_digit}{second_digit}{third_digit}"
+            else:
+                # Force a double by making two digits the same
+                number = f"{first_digit}{first_digit}{second_digit}"
         
         doubles.append(number)
     
     return doubles
 
-def generate_lightweight_singles(count):
-    """Generate lightweight singles predictions"""
+def generate_lightweight_singles(count, last_draw="000"):
+    """Generate lightweight singles predictions based on last draw"""
     singles = []
+    last_digits = [int(d) for d in last_draw]
+    
     for _ in range(count):
-        # Generate singles (all digits different)
-        digits = list(range(10))
-        random.shuffle(digits)
-        number = f"{digits[0]}{digits[1]}{digits[2]}"
+        # Generate singles (all digits different) with some influence from last draw
+        if random.random() < 0.3:  # 30% chance to use last draw influence
+            # Use one digit from last draw, ensure all different
+            base_digit = random.choice(last_digits)
+            other_digits = [d for d in range(10) if d != base_digit]
+            random.shuffle(other_digits)
+            number = f"{base_digit}{other_digits[0]}{other_digits[1]}"
+        else:
+            # Generate random singles
+            digits = list(range(10))
+            random.shuffle(digits)
+            number = f"{digits[0]}{digits[1]}{digits[2]}"
+        
         singles.append(number)
     
     return singles
@@ -446,15 +469,17 @@ def create_app():
             # Get form parameters
             state = (request.form.get("state") or "New Jersey").strip()
             game_type = (request.form.get("game_type") or "Pick3").strip()
+            last_draw = (request.form.get("last_draw") or "").strip()
             num_doubles = int(request.form.get("num_doubles", 90))
             num_singles = int(request.form.get("num_singles", 10)) if is_vip_user else 0
+            
+            # Validate last_draw input
+            if not last_draw or len(last_draw) != 3 or not last_draw.isdigit():
+                return render_template("predict.html", is_vip=is_vip_user, error="Please enter a valid 3-digit last draw (e.g., 123)", predictions=None)
             
             # Initialize the analyzer (FIXED - no state_name parameter)
             # Use lightweight generation to avoid timeout issues
             analyzer = None  # Skip heavy AI initialization for now
-            
-            # Get last drawing for context (use random for lightweight mode)
-            last_draw = f"{random.randint(0,9)}{random.randint(0,9)}{random.randint(0,9)}"
             
             # Generate predictions
             predictions = {
@@ -467,11 +492,11 @@ def create_app():
             }
             
             # Generate doubles (available to all users) - using fast lightweight method
-            predictions["doubles"] = generate_lightweight_doubles(num_doubles)
+            predictions["doubles"] = generate_lightweight_doubles(num_doubles, last_draw)
             
             # Generate singles (VIP only) - using fast lightweight method
             if is_vip_user and num_singles > 0:
-                predictions["singles"] = generate_lightweight_singles(num_singles)
+                predictions["singles"] = generate_lightweight_singles(num_singles, last_draw)
             
             return render_template("predict.html", is_vip=is_vip_user, error=None, predictions=predictions)
             
