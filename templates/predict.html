@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <h1>🎯 Pick 3 Prediction System</h1>
+    <h1> Pick 3 Prediction System - WORKING VERSION</h1>
     
     {% if error %}
         <div class="error">
@@ -42,14 +42,13 @@
         <div class="form-group">
             <label for="game_type">Game Type:</label>
             <select name="game_type" id="game_type">
-                <option value="Pick3" {% if not predictions or predictions.game_type == "Pick3" %}selected{% endif %}>Pick 3</option>
-                <option value="Pick4" {% if predictions and predictions.game_type == "Pick4" %}selected{% endif %}>Pick 4</option>
+                <option value="Pick3" selected>Pick 3</option>
             </select>
         </div>
         
         <div class="form-group">
             <label for="num_doubles">Number of Doubles:</label>
-            <input type="number" name="num_doubles" id="num_doubles" value="{% if predictions %}{{ predictions.doubles|length }}{% else %}10{% endif %}" min="1" max="50">
+            <input type="number" name="num_doubles" id="num_doubles" value="{% if predictions %}{{ predictions.doubles|length }}{% else %}90{% endif %}" min="1" max="200">
         </div>
         
         {% if is_vip %}
@@ -59,17 +58,17 @@
             </div>
         {% else %}
             <div class="vip-only">
-                <strong>🔒 VIP Feature:</strong> Singles predictions are available to VIP members only.
+                <strong> VIP Feature:</strong> Singles predictions are available to VIP members only.
                 <a href="#" onclick="subscribe('vip_monthly')">Upgrade to VIP</a> to unlock singles predictions!
             </div>
         {% endif %}
         
-        <button type="submit">🎯 Generate Predictions</button>
+        <button type="submit"> Generate Predictions</button>
     </form>
     
     {% if predictions %}
         <div class="predictions">
-            <h2>🎲 Your Predictions</h2>
+            <h2> Your Predictions</h2>
             
             <div class="last-draw">
                 <strong>Last Draw:</strong> <span class="numbers">{{ predictions.last_draw }}</span><br>
@@ -79,29 +78,31 @@
             
             {% if predictions.doubles %}
                 <div class="prediction-section">
-                    <h3>🎯 Doubles Predictions</h3>
-                    <div class="numbers">
+                    <h3> Doubles Predictions</h3>
+                    <div class="numbers" id="doubles-predictions">
                         {% for number in predictions.doubles %}
                             {{ number }}{% if not loop.last %}, {% endif %}
                         {% endfor %}
                     </div>
+                    <button onclick="copyToClipboard('doubles-predictions')" style="background: #28a745; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; margin-top: 10px;"> Copy Doubles</button>
                 </div>
             {% endif %}
             
             {% if predictions.singles and is_vip %}
                 <div class="prediction-section">
-                    <h3>🎯 Singles Predictions (VIP)</h3>
-                    <div class="numbers">
+                    <h3> Singles Predictions (VIP)</h3>
+                    <div class="numbers" id="singles-predictions">
                         {% for number in predictions.singles %}
                             {{ number }}{% if not loop.last %}, {% endif %}
                         {% endfor %}
                     </div>
+                    <button onclick="copyToClipboard('singles-predictions')" style="background: #007bff; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; margin-top: 10px;"> Copy Singles</button>
                 </div>
             {% endif %}
             
             {% if predictions.singles and not is_vip %}
                 <div class="vip-only">
-                    <strong>🔒 VIP Content:</strong> {{ predictions.singles|length }} singles predictions generated but hidden.
+                    <strong> VIP Content:</strong> {{ predictions.singles|length }} singles predictions generated but hidden.
                     <a href="#" onclick="subscribe('vip_monthly')">Upgrade to VIP</a> to see singles predictions!
                 </div>
             {% endif %}
@@ -110,13 +111,36 @@
     
     <hr>
     <p>
-        <a href="/">🏠 Home</a> | 
-        <a href="/picks/today">📅 Today's Picks</a> |
+        <a href="/"> Home</a> | 
+        <a href="/picks/today"> Today's Picks</a> |
         {% if is_vip %}
-            <a href="/account">👤 Account</a>
+            <a href="/account"> Account</a>
         {% else %}
-            <a href="#" onclick="subscribe('vip_monthly')">⭐ Go VIP</a>
+            <a href="#" onclick="subscribe('vip_monthly')"> Go VIP</a>
         {% endif %}
     </p>
+
+    <script>
+        function copyToClipboard(elementId) {
+            const element = document.getElementById(elementId);
+            const text = element.textContent;
+            
+            navigator.clipboard.writeText(text).then(function() {
+                // Show success message
+                const button = event.target;
+                const originalText = button.textContent;
+                button.textContent = ' Copied!';
+                button.style.background = '#28a745';
+                
+                setTimeout(function() {
+                    button.textContent = originalText;
+                    button.style.background = elementId === 'doubles-predictions' ? '#28a745' : '#007bff';
+                }, 2000);
+            }).catch(function(err) {
+                console.error('Could not copy text: ', err);
+                alert('Failed to copy to clipboard');
+            });
+        }
+    </script>
 </body>
 </html>
