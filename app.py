@@ -290,8 +290,8 @@ def create_app():
         game_type = (request.form.get("game_type") or "Pick3").strip()
 
         try:
-            # 1) init the analyzer (from your system)
-            analyzer = UniversalLotteryAnalyzer(state_name=state, game_type=game_type)
+            # 1) init the analyzer (from your system) - FIXED no state_name parameter
+            analyzer = UniversalLotteryAnalyzer()
 
             # 2) get doubles/singles using your system's methods
             # Get the last drawing for prediction
@@ -411,11 +411,11 @@ def create_app():
             # Get form parameters
             state = (request.form.get("state") or "New Jersey").strip()
             game_type = (request.form.get("game_type") or "Pick3").strip()
-            num_doubles = int(request.form.get("num_doubles", 10))
+            num_doubles = int(request.form.get("num_doubles", 90))
             num_singles = int(request.form.get("num_singles", 10)) if is_vip_user else 0
             
-            # Initialize the analyzer
-            analyzer = UniversalLotteryAnalyzer(state_name=state, game_type=game_type)
+            # Initialize the analyzer (FIXED - no state_name parameter)
+            analyzer = UniversalLotteryAnalyzer()
             
             # Get last drawing for context
             last_draw = analyzer.df.iloc[-1]['numbers'] if not analyzer.df.empty else "000"
