@@ -432,7 +432,7 @@ def create_app():
             
             # Generate doubles (available to all users)
             if hasattr(analyzer, 'generate_enhanced_predictions'):
-                doubles_result = analyzer.generate_enhanced_predictions(last_draw=last_draw, num_predictions=num_doubles)
+                doubles_result = analyzer.generate_enhanced_predictions(last_draw=last_draw, num_doubles=num_doubles, num_singles=0)  # FIXED: correct parameters
                 if doubles_result and 'doubles' in doubles_result:
                     predictions["doubles"] = doubles_result['doubles'][:num_doubles]
                 else:
@@ -445,7 +445,7 @@ def create_app():
             # Generate singles (VIP only)
             if is_vip_user and num_singles > 0:
                 if hasattr(analyzer, 'generate_enhanced_predictions'):
-                    singles_result = analyzer.generate_enhanced_predictions(last_draw=last_draw, num_predictions=num_singles)
+                    singles_result = analyzer.generate_enhanced_predictions(last_draw=last_draw, num_doubles=0, num_singles=num_singles)  # FIXED: correct parameters
                     if singles_result and 'singles' in singles_result:
                         predictions["singles"] = singles_result['singles'][:num_singles]
                     else:
