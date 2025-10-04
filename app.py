@@ -21,11 +21,17 @@ except ImportError:
 import random
 
 def generate_lightweight_doubles(count, last_draw="000"):
-    """Generate lightweight doubles predictions based on last draw"""
+    """Generate lightweight doubles predictions based on last draw with no duplicates"""
     doubles = []
+    used_numbers = set()
     last_digits = [int(d) for d in last_draw]
     
-    for _ in range(count):
+    attempts = 0
+    max_attempts = count * 10  # Prevent infinite loops
+    
+    while len(doubles) < count and attempts < max_attempts:
+        attempts += 1
+        
         # Generate doubles (same digit appears twice) with some influence from last draw
         if random.random() < 0.3:  # 30% chance to use last draw influence
             # Use one digit from last draw
@@ -48,16 +54,25 @@ def generate_lightweight_doubles(count, last_draw="000"):
                 # Force a double by making two digits the same
                 number = f"{first_digit}{first_digit}{second_digit}"
         
-        doubles.append(number)
+        # Only add if not already used
+        if number not in used_numbers:
+            doubles.append(number)
+            used_numbers.add(number)
     
     return doubles
 
 def generate_lightweight_singles(count, last_draw="000"):
-    """Generate lightweight singles predictions based on last draw"""
+    """Generate lightweight singles predictions based on last draw with no duplicates"""
     singles = []
+    used_numbers = set()
     last_digits = [int(d) for d in last_draw]
     
-    for _ in range(count):
+    attempts = 0
+    max_attempts = count * 10  # Prevent infinite loops
+    
+    while len(singles) < count and attempts < max_attempts:
+        attempts += 1
+        
         # Generate singles (all digits different) with some influence from last draw
         if random.random() < 0.3:  # 30% chance to use last draw influence
             # Use one digit from last draw, ensure all different
@@ -71,7 +86,10 @@ def generate_lightweight_singles(count, last_draw="000"):
             random.shuffle(digits)
             number = f"{digits[0]}{digits[1]}{digits[2]}"
         
-        singles.append(number)
+        # Only add if not already used
+        if number not in used_numbers:
+            singles.append(number)
+            used_numbers.add(number)
     
     return singles
 
