@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Admin: Generate Picks</title></head>
+<body>
+  <h1>Admin: Generate Picks</h1>
+
+  {% if not system_available %}
+    <div style="background-color: #ffebee; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+      <h3>⚠️ Pick 3 System Not Available</h3>
+      <p>To use the generate feature, copy your Pick 3 system files to <code>vendor/pick3_system/</code></p>
+      <p>Expected files:</p>
+      <ul>
+        <li><code>universal_lottery_analyzer.py</code></li>
+        <li><code>utils/</code> folder</li>
+        <li><code>config/</code> folder</li>
+        <li><code>data_files/</code> folder (if present)</li>
+      </ul>
+    </div>
+  {% endif %}
+
+  <form method="post">
+    <label>Play Date (YYYY-MM-DD)</label><br>
+    <input name="play_date" value="{{ today }}" required /><br><br>
+
+    <label>State</label><br>
+    <input name="state" value="{{ state or 'Generic' }}"/><br><br>
+
+    <label>Game Type</label><br>
+    <input name="game_type" value="{{ game_type or 'Pick3' }}"/><br><br>
+
+    <button type="submit" name="action" value="preview" {% if not system_available %}disabled{% endif %}>Preview</button>
+    {% if preview %}
+      <button type="submit" name="action" value="save" style="background-color: #4caf50; color: white; padding: 8px 16px; border: none; border-radius: 4px;">Save to /picks/today</button>
+    {% endif %}
+  </form>
+
+  {% if error %}
+    <div style="background-color: #ffebee; padding: 15px; border-radius: 5px; margin: 20px 0;">
+      <p style="color: #c62828; margin: 0;"><strong>Error:</strong> {{ error }}</p>
+    </div>
+  {% endif %}
+
+  {% if preview %}
+    <hr>
+    <h3>Preview</h3>
+    <div style="background-color: #f5f5f5; padding: 15px; border-radius: 5px;">
+      <p><strong>Free – Doubles:</strong> {{ preview.free_doubles or '—' }}</p>
+      <p><strong>VIP – Doubles:</strong> {{ preview.vip_doubles or '—' }}</p>
+      <p><strong>VIP – Singles:</strong> {{ preview.vip_singles or '—' }}</p>
+    </div>
+  {% endif %}
+
+  <hr>
+  <p>
+    <a href="/admin/picks">Manual Entry</a> • 
+    <a href="/admin/picks/today">View Today's Picks</a> • 
+    <a href="/picks/today">View User Experience</a> • 
+    <a href="/">Home</a>
+  </p>
+</body>
+</html>
+

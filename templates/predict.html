@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Pick 3 Predictions</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .form-group { margin: 15px 0; }
+        label { display: block; margin-bottom: 5px; font-weight: bold; }
+        input, select { padding: 8px; width: 200px; border: 1px solid #ccc; border-radius: 4px; }
+        button { padding: 10px 20px; background: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background: #0056b3; }
+        .predictions { margin-top: 30px; padding: 20px; background: #f8f9fa; border-radius: 8px; }
+        .prediction-section { margin: 20px 0; }
+        .numbers { font-family: monospace; font-size: 18px; font-weight: bold; color: #007bff; }
+        .error { color: red; background: #ffe6e6; padding: 10px; border-radius: 4px; }
+        .vip-only { background: #fff3cd; padding: 10px; border-radius: 4px; border-left: 4px solid #ffc107; }
+        .last-draw { background: #e9ecef; padding: 10px; border-radius: 4px; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>🎯 Pick 3 Prediction System</h1>
+    
+    {% if error %}
+        <div class="error">
+            <strong>Error:</strong> {{ error }}
+        </div>
+    {% endif %}
+    
+    <form method="post">
+        <div class="form-group">
+            <label for="state">State:</label>
+            <select name="state" id="state">
+                <option value="New Jersey" {% if not predictions or predictions.state == "New Jersey" %}selected{% endif %}>New Jersey</option>
+                <option value="New York" {% if predictions and predictions.state == "New York" %}selected{% endif %}>New York</option>
+                <option value="Pennsylvania" {% if predictions and predictions.state == "Pennsylvania" %}selected{% endif %}>Pennsylvania</option>
+                <option value="California" {% if predictions and predictions.state == "California" %}selected{% endif %}>California</option>
+                <option value="Florida" {% if predictions and predictions.state == "Florida" %}selected{% endif %}>Florida</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="game_type">Game Type:</label>
+            <select name="game_type" id="game_type">
+                <option value="Pick3" {% if not predictions or predictions.game_type == "Pick3" %}selected{% endif %}>Pick 3</option>
+                <option value="Pick4" {% if predictions and predictions.game_type == "Pick4" %}selected{% endif %}>Pick 4</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="num_doubles">Number of Doubles:</label>
+            <input type="number" name="num_doubles" id="num_doubles" value="{% if predictions %}{{ predictions.doubles|length }}{% else %}10{% endif %}" min="1" max="50">
+        </div>
+        
+        {% if is_vip %}
+            <div class="form-group">
+                <label for="num_singles">Number of Singles (VIP):</label>
+                <input type="number" name="num_singles" id="num_singles" value="{% if predictions %}{{ predictions.singles|length }}{% else %}10{% endif %}" min="0" max="50">
+            </div>
+        {% else %}
+            <div class="vip-only">
+                <strong>🔒 VIP Feature:</strong> Singles predictions are available to VIP members only.
+                <a href="#" onclick="subscribe('vip_monthly')">Upgrade to VIP</a> to unlock singles predictions!
+            </div>
+        {% endif %}
+        
+        <button type="submit">🎯 Generate Predictions</button>
+    </form>
+    
+    {% if predictions %}
+        <div class="predictions">
+            <h2>🎲 Your Predictions</h2>
+            
+            <div class="last-draw">
+                <strong>Last Draw:</strong> <span class="numbers">{{ predictions.last_draw }}</span><br>
+                <strong>Generated:</strong> {{ predictions.generated_at }}<br>
+                <strong>State:</strong> {{ predictions.state }} {{ predictions.game_type }}
+            </div>
+            
+            {% if predictions.doubles %}
+                <div class="prediction-section">
+                    <h3>🎯 Doubles Predictions</h3>
+                    <div class="numbers">
+                        {% for number in predictions.doubles %}
+                            {{ number }}{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            {% endif %}
+            
+            {% if predictions.singles and is_vip %}
+                <div class="prediction-section">
+                    <h3>🎯 Singles Predictions (VIP)</h3>
+                    <div class="numbers">
+                        {% for number in predictions.singles %}
+                            {{ number }}{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            {% endif %}
+            
+            {% if predictions.singles and not is_vip %}
+                <div class="vip-only">
+                    <strong>🔒 VIP Content:</strong> {{ predictions.singles|length }} singles predictions generated but hidden.
+                    <a href="#" onclick="subscribe('vip_monthly')">Upgrade to VIP</a> to see singles predictions!
+                </div>
+            {% endif %}
+        </div>
+    {% endif %}
+    
+    <hr>
+    <p>
+        <a href="/">🏠 Home</a> | 
+        <a href="/picks/today">📅 Today's Picks</a> |
+        {% if is_vip %}
+            <a href="/account">👤 Account</a>
+        {% else %}
+            <a href="#" onclick="subscribe('vip_monthly')">⭐ Go VIP</a>
+        {% endif %}
+    </p>
+</body>
+</html>

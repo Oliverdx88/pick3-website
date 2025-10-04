@@ -1,0 +1,3260 @@
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 15:41:15
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 15:41:15
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 15:40:56
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 15:40:56
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:59
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:59
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:44
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:44
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:29
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:29
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:15
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:24:15
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:13:39
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:13:39
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:13:27
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-09 05:13:27
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:34:16
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:34:16
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:33:59
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:33:59
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:19:29
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:19:29
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:19:13
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 14:19:12
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:29:37
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:29:37
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:22:12
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:22:12
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:09:46
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:09:46
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:00:28
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 05:00:28
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 04:34:52
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 04:34:52
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:40:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:40:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:40:03
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:40:03
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:36:24
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:36:24
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:36:17
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:36:17
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:29:28
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:29:28
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:29:21
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-07 03:29:21
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:07:56
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:07:56
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:07:24
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:07:24
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:05:09
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:05:09
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:05:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:05:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:04:25
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:04:25
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:04:19
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:04:19
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:01:27
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 02:01:27
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:57:16
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:57:16
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:57:09
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:57:09
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:47
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:47
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:41
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:41
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:16
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:16
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:13
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:13
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:11
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:11
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:55:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:53:56
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 583, 841, 583, 818
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:53:39
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 841, 583, 841, 583
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:53:12
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 601, 841, 583, 841
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:51:18
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 781, 601, 841, 583
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:51:01
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 977, 781, 601, 841
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:50:52
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 144, 977, 781, 601
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:50:42
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 3
+Recent Manual Drawings: 144, 977, 781
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:50:36
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 2
+Recent Manual Drawings: 144, 977
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:54
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:54
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:48
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:48
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:36
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:36
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:29
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:29
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:12
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:12
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:06
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:47:06
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:46:44
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:46:44
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:46:43
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:46:43
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:44:23
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 841, 583, 818, 433
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:44:10
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 4
+Recent Manual Drawings: 601, 841, 583, 818
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:43:29
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 3
+Recent Manual Drawings: 601, 841, 583
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:43:19
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 2
+Recent Manual Drawings: 601, 841
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:33
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:33
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:33
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:33
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:13
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:13
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:11
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:11
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:04
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:01
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:37:01
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:36:07
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:36:07
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:35:45
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:35:45
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+
+=== NJ LEARNING SYSTEM UPDATE ===
+Last Updated: 2025-08-04 01:35:37
+Total Draws Analyzed: 7642
+Learning Status: ACTIVE
+
+Strategy Performance Summary:
+- Position Transformation: Weight=0.250, Success=0.0%
+- Advanced Mirror: Weight=0.250, Success=0.0%
+- Sum Based: Weight=0.200, Success=0.0%
+- Pattern Recognition: Weight=0.150, Success=0.0%
+- Momentum Learning: Weight=0.150, Success=0.0%
+
+Latest Learning Updates:
+- Position Transformation: 0.250
+- Advanced Mirror: 0.250
+- Sum-based: 0.200
+- Pattern Recognition: 0.150
+- Momentum Learning: 0.150
+
+Manual Learning Entries: 0
+Recent Manual Drawings: None
+
+=== END LEARNING UPDATE ===
+
+﻿June 2025
+	Sun
+	Mon
+	Tue
+	Wed
+	Thu
+	Fri
+	Sat
+	1
+110
+475
+	2
+946
+457
+	3
+211
+760
+	4
+937
+071
+	5
+342
+170
+	6
+274
+579
+	7
+557
+806
+	8
+270
+159
+	9
+254
+811
+	10
+573
+210
+	11
+634
+960
+	12
+203
+446
+	13
+999
+115
+	14
+214
+394
+	15
+031
+253
+	16
+170
+431
+	17
+758
+926
+	18
+234
+351
+	19
+034
+740
+	20
+399
+445
+	21
+182
+554
+	22
+985
+887
+	23
+106
+152
+	24
+229
+431
+	25
+158
+590
+	26
+819
+756
+	27
+735
+804
+	28
+100
+224
+	29
+945
+336
+	30
+079
+868
+	1
+	2
+	3
+	4
+	5
+	
+
+July 2025
+	Sun
+	Mon
+	Tue
+	Wed
+	Thu
+	Fri
+	Sat
+	29
+	30
+	1
+144
+525
+	2
+977
+851
+	3
+781
+864
+	4
+601
+041
+	5
+841
+564
+	6
+583
+216
+	7
+818
+502
+	8
+433
+940
+	9
+732
+139
+	10
+874
+595
+	11
+749
+547
+	12
+576
+308
+	13
+858
+338
+	14
+037
+409
+	15
+134
+841
+	16
+131
+366
+	17
+802
+631
+	18
+025
+729
+	19
+717
+591
+	20
+773
+830
+	21
+223
+970
+	22
+891
+864
+	23
+466
+038
+	24
+837
+337
+	25
+769
+083
+	26
+031
+673
+	27
+151
+774
+	28
+721
+817
+	29
+215
+714
+	30
+846
+331
+	31
+652
+092
+	1
+	2
+	
+
+August 2025
+	Sun
+	Mon
+	Tue
+	Wed
+	Thu
+	Fri
+	Sat
+	27
+	28
+	29
+	30
+	31
+	1
+908
+758
+	2
+862
+122
+	3
+153
+896
+	4

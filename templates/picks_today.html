@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Today's Picks</title></head>
+<body>
+  <h1>Today's Picks – {{ today }}</h1>
+
+  <h2>Free – Doubles</h2>
+  {% set free_d = free | selectattr('category','equalto','double') | list %}
+  {% if free_d %}
+    <p>{{ free_d[0].numbers }}</p>
+  {% else %}
+    <p>No free doubles posted yet.</p>
+  {% endif %}
+
+  {% if is_vip %}
+    <h2>VIP – Doubles</h2>
+    {% set vip_d = vip | selectattr('category','equalto','double') | list %}
+    {% if vip_d %}<p>{{ vip_d[0].numbers }}</p>{% else %}<p>None posted.</p>{% endif %}
+
+    <h2>VIP – Singles</h2>
+    {% set vip_s = vip | selectattr('category','equalto','single') | list %}
+    {% if vip_s %}<p>{{ vip_s[0].numbers }}</p>{% else %}<p>None posted.</p>{% endif %}
+  {% else %}
+    <hr>
+    <p><strong>Want Singles + VIP Doubles?</strong>
+      <a href="#" onclick="subscribe('vip_monthly')">Go VIP – $9.99/mo</a> or
+      <a href="#" onclick="subscribe('vip_yearly')">VIP Yearly – $99</a>
+    </p>
+  {% endif %}
+
+  <p><a href="/">Home</a></p>
+</body>
+</html>
+

@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Sign in - Pick3 Predictions</title>
+    <style>
+        body { font-family: system-ui, Arial; max-width: 400px; margin: 40px auto; padding: 0 16px; }
+        form { background: #f9f9f9; padding: 20px; border-radius: 8px; }
+        label { display: block; margin-bottom: 5px; font-weight: bold; }
+        input[type="email"] { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 15px; }
+        button { background: #2196F3; color: white; border: none; padding: 12px 20px; border-radius: 4px; cursor: pointer; width: 100%; font-size: 16px; }
+        button:hover { background: #1976D2; }
+    </style>
+</head>
+<body>
+    <h1>Sign in to Pick3</h1>
+    <form method="post" action="/login">
+        <label for="email">Email Address</label>
+        <input type="email" name="email" id="email" required placeholder="your@email.com" />
+        <button type="submit">Send Magic Link</button>
+    </form>
+    <p style="text-align: center; margin-top: 20px;">
+        <a href="/">← Back to Home</a>
+    </p>
+</body>
+</html>
+
+
+

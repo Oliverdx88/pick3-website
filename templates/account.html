@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>My Account</title>
+    <style>
+        body { font-family: system-ui, Arial; max-width: 640px; margin: 40px auto; padding: 0 16px; }
+        button { padding: 10px 16px; font-size: 16px; cursor: pointer; background: #2196F3; color: white; border: none; border-radius: 4px; }
+        .status-active { color: #4CAF50; font-weight: bold; }
+        .status-canceled { color: #f44336; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>My Account</h1>
+    {% if user %}
+        <p><strong>Email:</strong> {{ user.email or user['email'] }}</p>
+        <p><strong>Plan:</strong> 
+            {% if user.plan == 'free' or user['plan'] == 'free' %}
+                🟢 Free Starter
+            {% elif user.plan == 'vip_monthly' or user['plan'] == 'vip_monthly' %}
+                🔵 VIP Pro (Monthly)
+            {% elif user.plan == 'vip_yearly' or user['plan'] == 'vip_yearly' %}
+                🔵 VIP Pro (Yearly)
+            {% else %}
+                {{ user.plan or user['plan'] }}
+            {% endif %}
+        </p>
+        <p><strong>Status:</strong> 
+            <span class="{% if user.status == 'active' or user['status'] == 'active' %}status-active{% else %}status-canceled{% endif %}">
+                {{ user.status or user['status'] }}
+            </span>
+        </p>
+        {% if user.current_period_end or user['current_period_end'] %}
+            <p><strong>Renews:</strong> {{ user.current_period_end or user['current_period_end'] }}</p>
+        {% endif %}
+        
+        {% if user.stripe_customer_id or user['stripe_customer_id'] %}
+            <button id="portal">Manage Subscription</button>
+        {% endif %}
+        
+        <script>
+            document.getElementById('portal').onclick = async () => {
+                const r = await fetch('/create-portal-session', { method: 'POST' });
+                const data = await r.json();
+                if (data.url) location.href = data.url; else alert(data.error || 'Error');
+            }
+        </script>
+    {% else %}
+        <p>Not logged in.</p>
+    {% endif %}
+    <p><a href="/">← Back to Home</a></p>
+</body>
+</html>
+
+
+

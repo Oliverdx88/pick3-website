@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Pick3 Predictions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://js.stripe.com/v3"></script>
+    <style>
+      body { font-family: system-ui, Arial; max-width: 800px; margin: 40px auto; padding: 0 16px; }
+      .plans { display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap; }
+      .plan { border: 2px solid #e0e0e0; padding: 20px; border-radius: 8px; flex: 1; min-width: 200px; text-align: center; }
+      .plan.free { border-color: #4CAF50; }
+      .plan.vip { border-color: #2196F3; }
+      .plan.yearly { border-color: #FF9800; }
+      button { padding: 12px 20px; font-size: 16px; cursor: pointer; border: none; border-radius: 4px; width: 100%; margin-top: 10px; }
+      .btn-free { background: #4CAF50; color: white; }
+      .btn-vip { background: #2196F3; color: white; }
+      .btn-yearly { background: #FF9800; color: white; }
+      .user-status { background: #f0f0f0; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+      .vip-features { background: #e3f2fd; padding: 15px; border-radius: 8px; margin-top: 20px; }
+    </style>
+  </head>
+  <body>
+    <h1>🎯 Pick3 Predictions</h1>
+    
+    {% if user %}
+      <div class="user-status">
+        <p>Signed in as <strong>{{ user.email or user['email'] }}</strong> — 
+           <a href="/account">Account</a> — 
+           <a href="/logout">Log out</a>
+        </p>
+        {% if user.status in ['active','trialing'] and user.plan in ['vip_monthly','vip_yearly'] %}
+          <h3>🎉 Welcome VIP!</h3>
+          <p>You're subscribed to <strong>VIP Pro</strong> - enjoy full access to all features!</p>
+          <p><a href="/predict" style="background: #2196F3; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin: 10px 0;">🎯 Generate Predictions</a></p>
+          <p><a href="/api/v1/smartscore">Try SmartScore API</a></p>
+        {% elif user.plan == 'free' %}
+          <h3>🟢 Free Starter Active</h3>
+          <p>You're on the free plan. Generate doubles predictions or upgrade to VIP for full features!</p>
+          <p><a href="/predict" style="background: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin: 10px 0;">🎯 Generate Predictions</a></p>
+        {% endif %}
+      </div>
+    {% else %}
+      <div class="user-status">
+        <p><a href="/login">Sign in</a> to access your account and generate predictions</p>
+        <p><a href="/predict" style="background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin: 10px 0;">🎯 Try Predictions (Login Required)</a></p>
+      </div>
+    {% endif %}
+    
+    <p>Choose your plan to access our advanced Pick 3 prediction system.</p>
+    
+    <div class="plans">
+      <div class="plan free">
+        <h3>🟢 Free Starter</h3>
+        <p><strong>$0/month</strong></p>
+        <p>Generate doubles predictions using our AI system. Choose state, game type, and number of predictions. Perfect for getting started.</p>
+        <button class="btn-free" onclick="subscribe('free')">Get Free Access</button>
+      </div>
+      
+      <div class="plan vip">
+        <h3>🔵 VIP Pro</h3>
+        <p><strong>$9.99/month</strong></p>
+        <p>Unlock doubles + singles predictions, multiple states, advanced AI analysis, and unlimited generations per day.</p>
+        <button class="btn-vip" onclick="subscribe('vip_monthly')">Join VIP Monthly</button>
+      </div>
+      
+      <div class="plan yearly">
+        <h3>🟡 VIP Pro Yearly</h3>
+        <p><strong>$99/year</strong></p>
+        <p><strong>Best Value!</strong> Get 12 months for the price of 10. All VIP features included. Save $20!</p>
+        <button class="btn-yearly" onclick="subscribe('vip_yearly')">Join VIP Yearly</button>
+      </div>
+    </div>
+    
+    <div class="vip-features">
+      <h4>🔵 VIP Features Include:</h4>
+      <ul>
+        <li>Generate doubles + singles predictions</li>
+        <li>Multiple states (NJ, NY, PA, CA, FL)</li>
+        <li>Pick 3 and Pick 4 game types</li>
+        <li>Unlimited daily generations</li>
+        <li>Advanced AI analysis</li>
+        <li>Last draw context and timing</li>
+        <li>Ad-free experience</li>
+      </ul>
+    </div>
+    
+    <p><a href="/privacy">Privacy</a> • <a href="/terms">Terms</a></p>
+
+    <script>
+      let stripe;
+      
+      // Initialize Stripe when the page loads
+      document.addEventListener('DOMContentLoaded', function() {
+        stripe = Stripe("{{ publishable_key }}");
+      });
+      
+      async function subscribe(plan) {
+        if (!stripe) {
+          alert("Stripe is not initialized. Please refresh the page.");
+          return;
+        }
+        
+        const res = await fetch(`/create-checkout-session/${plan}`, { method: "POST" });
+        const data = await res.json();
+        if (data.id) {
+          const r = await stripe.redirectToCheckout({ sessionId: data.id });
+          if (r.error) alert(r.error.message);
+        } else {
+          alert(data.error || "Error creating checkout session");
+        }
+      }
+    </script>
+  </body>
+</html>
