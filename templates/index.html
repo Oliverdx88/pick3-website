@@ -38,6 +38,10 @@
           <h3>🟢 Free Starter Active</h3>
           <p>You're on the free plan. Generate doubles predictions or upgrade to VIP for full features!</p>
           <p><a href="/predict" style="background: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin: 10px 0;">🎯 Generate Predictions</a></p>
+        {% else %}
+          <h3>🎯 Welcome to Pick 3 Predictions!</h3>
+          <p>You're signed in! Start generating predictions or choose a plan below.</p>
+          <p><a href="/predict" style="background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin: 10px 0;">🎯 Generate Predictions (Free)</a></p>
         {% endif %}
       </div>
     {% else %}
@@ -53,7 +57,7 @@
       <div class="plan free">
         <h3>🟢 Free Starter</h3>
         <p><strong>$0/month</strong></p>
-        <p>Generate doubles predictions using our AI system. Choose state, game type, and number of predictions. Perfect for getting started.</p>
+        <p>Generate doubles predictions using our AI system. Choose state and number of predictions. Perfect for getting started.</p>
         <button class="btn-free" onclick="subscribe('free')">Get Free Access</button>
       </div>
       
@@ -77,7 +81,7 @@
       <ul>
         <li>Generate doubles + singles predictions</li>
         <li>Multiple states (NJ, NY, PA, CA, FL)</li>
-        <li>Pick 3 and Pick 4 game types</li>
+        <li>Pick 3 game type</li>
         <li>Unlimited daily generations</li>
         <li>Advanced AI analysis</li>
         <li>Last draw context and timing</li>
@@ -92,12 +96,17 @@
       
       // Initialize Stripe when the page loads
       document.addEventListener('DOMContentLoaded', function() {
-        stripe = Stripe("{{ publishable_key }}");
+        const publishableKey = "{{ publishable_key }}";
+        if (publishableKey && publishableKey !== "") {
+          stripe = Stripe(publishableKey);
+        } else {
+          console.error("Stripe publishable key not configured");
+        }
       });
       
       async function subscribe(plan) {
         if (!stripe) {
-          alert("Stripe is not initialized. Please refresh the page.");
+          alert("Payment system is not available. Please contact support or try again later.");
           return;
         }
         
