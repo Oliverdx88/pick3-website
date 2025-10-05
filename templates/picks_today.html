@@ -3,6 +3,11 @@
 <head><meta charset="utf-8"><title>Today's Picks</title></head>
 <body>
   <h1>Today's Picks – {{ today }}</h1>
+  
+  <div style="background: #fff3cd; border: 1px solid #ffeaa7; padding: 15px; border-radius: 8px; margin-bottom: 20px; color: #856404;">
+    <strong>⚠️ Important Notice:</strong> This is a prediction system, not a guarantee of winning. Use responsibly. 
+    Lottery games are games of chance and past results do not guarantee future outcomes.
+  </div>
 
   <h2>Free – Doubles</h2>
   {% set free_d = free | selectattr('category','equalto','double') | list %}
@@ -31,4 +36,5 @@
   <p><a href="/">Home</a></p>
 </body>
 </html>
+
 
