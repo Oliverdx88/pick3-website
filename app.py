@@ -178,11 +178,24 @@ def create_app():
     def index():
         email = session.get("user_email")
         user = get_user(email) if email else None
+        publishable_key = app.config.get("STRIPE_PUBLISHABLE_KEY", "")
+        print(f"DEBUG: Stripe publishable key: {publishable_key[:10]}..." if publishable_key else "DEBUG: No Stripe publishable key found")
         return render_template(
             "index.html",
-            publishable_key=app.config["STRIPE_PUBLISHABLE_KEY"],
+            publishable_key=publishable_key,
             user=user
         )
+
+    @app.get("/debug/stripe")
+    def debug_stripe():
+        """Debug route to check Stripe configuration"""
+        return {
+            "STRIPE_PUBLISHABLE_KEY": app.config.get("STRIPE_PUBLISHABLE_KEY", "NOT_SET")[:10] + "..." if app.config.get("STRIPE_PUBLISHABLE_KEY") else "NOT_SET",
+            "STRIPE_SECRET_KEY": "SET" if app.config.get("STRIPE_SECRET_KEY") else "NOT_SET",
+            "STRIPE_PRICE_ID_FREE": app.config.get("STRIPE_PRICE_ID_FREE", "NOT_SET"),
+            "STRIPE_PRICE_ID_VIP_MONTHLY": app.config.get("STRIPE_PRICE_ID_VIP_MONTHLY", "NOT_SET"),
+            "STRIPE_PRICE_ID_VIP_YEARLY": app.config.get("STRIPE_PRICE_ID_VIP_YEARLY", "NOT_SET"),
+        }
 
     # Choose plan: free | vip_monthly | vip_yearly
     @app.post("/create-checkout-session/<plan>")
