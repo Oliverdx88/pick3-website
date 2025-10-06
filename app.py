@@ -23,11 +23,11 @@ import random
 def generate_lightweight_doubles(count, last_draw="000"):
     """Generate lightweight doubles predictions based on last draw with no duplicates"""
     doubles = []
-    used_numbers = set()
+    used_combinations = set()  # Track unique digit combinations (box numbers)
     last_digits = [int(d) for d in last_draw]
     
     attempts = 0
-    max_attempts = count * 10  # Prevent infinite loops
+    max_attempts = count * 20  # Prevent infinite loops
     
     while len(doubles) < count and attempts < max_attempts:
         attempts += 1
@@ -54,10 +54,14 @@ def generate_lightweight_doubles(count, last_draw="000"):
                 # Force a double by making two digits the same
                 number = f"{first_digit}{first_digit}{second_digit}"
         
-        # Only add if not already used
-        if number not in used_numbers:
+        # Create a sorted combination to check for duplicates (box numbers)
+        digits = sorted([int(d) for d in number])
+        combination = tuple(digits)
+        
+        # Only add if this combination hasn't been used (prevents 007, 700, 070 duplicates)
+        if combination not in used_combinations:
             doubles.append(number)
-            used_numbers.add(number)
+            used_combinations.add(combination)
     
     return doubles
 
